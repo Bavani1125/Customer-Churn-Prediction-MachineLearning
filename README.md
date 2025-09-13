@@ -5,12 +5,10 @@ Built with **Python**, **scikit‑learn**, **XGBoost**, and a **Streamlit** demo
 ## 🔥 Preview (Screenshots)
 
 ### Streamlit App – Single Prediction
-<img src="Churn-WP-SinglePrediction.jpg" width="800"/>
 <img src="Churn-WP-SinglePrediction-1.jpg" width="800"/>
 <img src="Churn-WP-SinglePrediction-2.jpg" width="800"/>
 
 ### Streamlit App – Batch Prediction
-<img src="Churn-WP-BatchPrediction.jpg" width="800"/>
 <img src="Churn-WP-BatchPrediction-1.jpg" width="800"/>
 
 ### Model Evaluation
