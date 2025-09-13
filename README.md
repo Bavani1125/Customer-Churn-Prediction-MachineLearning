@@ -3,15 +3,6 @@
 End‑to‑end machine‑learning project that predicts whether a telecom customer will churn (leave) or stay.
 Built with **Python**, **scikit‑learn**, **XGBoost**, and a **Streamlit** demo app.
 
-
-# 📉 Customer Churn Prediction (Telco)
-
-End-to-end machine-learning project that predicts whether a telecom customer will churn (leave) or stay.  
-Built with Python, scikit-learn, XGBoost, and a Streamlit web app.
-
-
-
-
 ## 🔥 Preview (Screenshots)
 
 ### Streamlit App – Single Prediction
