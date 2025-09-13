@@ -27,3 +27,11 @@ artifacts/*
 # IDE
 .vscode/
 .idea/
+
+# Reports
+reports/*
+!reports/.gitkeep
+!reports/*.png
+!reports/*.jpg
+!reports/*.jpeg
+!reports/*.gif
